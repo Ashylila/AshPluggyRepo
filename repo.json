@@ -1,20 +1,30 @@
-{
-  "Plugins": [
-    {
-      "InternalName": "AshPluggy",
-      "Name": "AshPluggy",
-      "Description": "A plugin for logging and highlighting actions.",
-      "AssemblyVersion": "1.0.0.0",
-      "RepoUrl": "https://github.com/Ashylila/AshPluggyRepo",
-      "ApplicableVersion": "2023.10.0",
-      "Tags": ["utility", "logging"],
-      "CategoryTags": ["Utility"],
-      "IsHide": false,
-      "IconUrl": "https://static.vecteezy.com/system/resources/previews/006/899/230/non_2x/mystery-random-loot-box-from-game-icon-vector.jpg",
-      "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-      "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-      "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-      "Changelog": "Initial release."
-    }
-  ]
-}
+[
+  {
+    "Author": "Ashy",
+    "Name": "AshPluggy",
+    "Description": "Test plugin by Ashy",
+    "Punchline": "Testing",
+    "InternalName": "AshPluggy",
+    "AssemblyVersion": "2.0.7.12",
+    "TestingAssemblyVersion": "2.0.7.12",
+    "RepoUrl": "https://github.com/Ashylila/AshPluggyRepo",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "TestingDalamudApiLevel": 11,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "LoadPriority": 0,
+    "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
+    "Tags": [
+      "Customization",
+      "Appearance",
+      "Character",
+      "Ashy"
+    ]
+  }
+]
