@@ -11,9 +11,9 @@
       "CategoryTags": ["Utility"],
       "IsHide": false,
       "IconUrl": "https://raw.githubusercontent.com/yourusername/AshPluggy/main/icon.png",
-      "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
-      "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
-      "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
+      "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
+      "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
+      "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
       "Changelog": "Initial release."
     }
   ]
