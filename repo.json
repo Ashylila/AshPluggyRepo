@@ -1,0 +1,20 @@
+{
+  "Plugins": [
+    {
+      "InternalName": "AshPluggy",
+      "Name": "AshPluggy",
+      "Description": "A plugin for logging and highlighting actions.",
+      "AssemblyVersion": "1.0.0.0",
+      "RepoUrl": "https://github.com/Ashylila/AshPluggy",
+      "ApplicableVersion": "2023.10.0",
+      "Tags": ["utility", "logging"],
+      "CategoryTags": ["Utility"],
+      "IsHide": false,
+      "IconUrl": "https://raw.githubusercontent.com/yourusername/AshPluggy/main/icon.png",
+      "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
+      "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
+      "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggy/releases/download/1.0/AshPluggy.zip",
+      "Changelog": "Initial release."
+    }
+  ]
+}
