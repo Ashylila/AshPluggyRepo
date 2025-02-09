@@ -1,13 +1,13 @@
 [
   {
     "Author": "Ashy",
-    "Name": "AshPluggy",
-    "Description": "Test plugin by Ashy",
-    "Punchline": "Testing",
-    "InternalName": "AshPluggy",
+    "Name": "AetherLink",
+    "Description": "A plugin that connects FFXIV in-game chat with Discord.",
+    "Punchline": "Seamless FFXIV-Discord Chat Integration",
+    "InternalName": "AetherLink",
     "AssemblyVersion": "0.1",
     "TestingAssemblyVersion": "0.1",
-    "RepoUrl": "https://github.com/Ashylila/AshPluggyRepo",
+    "RepoUrl": "https://github.com/Ashylila/AetherLink",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
     "TestingDalamudApiLevel": 11,
@@ -16,15 +16,15 @@
     "DownloadCount": 0,
     "LastUpdate": 0,
     "LoadPriority": 0,
-    "DownloadLinkInstall": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-    "DownloadLinkUpdate": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/AshPluggyRepo/releases/download/v0.1/AshPluggy.zip",
-    "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
+    "DownloadLinkInstall": "https://github.com/Ashylila/AetherLink/releases/download/v0.1/latest.zip",
+    "DownloadLinkUpdate": "hhttps://github.com/Ashylila/AetherLink/releases/download/v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/AetherLink/releases/download/v0.1/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Ashylila/AshPluggyRepo/refs/heads/main/atherlink.png",
     "Tags": [
-      "Customization",
-      "Appearance",
-      "Character",
-      "Ashy"
+      "Discord",
+      "Chat",
+      "Integration",
+      "FFXIV"
     ]
   }
 ]
