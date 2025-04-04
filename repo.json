@@ -53,5 +53,6 @@
     "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
     "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Ashylila/ArtisanBuddy/refs/heads/master/icon.png"
 }
 ]
