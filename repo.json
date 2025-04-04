@@ -28,4 +28,30 @@
     "DownloadLinkTesting": "https://github.com/Ashylila/AetherLink/releases/download/v0.81/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/AshPluggyRepo/refs/heads/main/atherlink%20(1).png"
   }
+  {
+  "Author": "Ashylila",
+  "Name": "ArtisanBuddy",
+    "InternalName": "ArtisanBuddy",
+  "Punchline": "Artisan Things",
+  "Description": "Artisan Things",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Artisan",
+    "Gatherbuddy",
+    "Automation"
+  ],
+    "AssemblyVersion": "0.1",
+    "TestingAssemblyVersion": "0.1",
+    "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.1/latest.zip",
+}
 ]
