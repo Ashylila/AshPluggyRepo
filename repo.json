@@ -50,9 +50,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/v0.11/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/ArtisanBuddy/refs/heads/master/icon.png"
 }
 ]
