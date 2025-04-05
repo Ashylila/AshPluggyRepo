@@ -40,8 +40,8 @@
     "Gatherbuddy",
     "Automation"
   ],
-    "AssemblyVersion": "0.12",
-    "TestingAssemblyVersion": "0.12",
+    "AssemblyVersion": "0.13",
+    "TestingAssemblyVersion": "0.13",
     "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
@@ -50,9 +50,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
-    "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.12/ArtisanBuddy.zip",
+    "DownloadLinkInstall": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.13/ArtisanBuddy.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.13/ArtisanBuddy.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/download/0.13/ArtisanBuddy.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/ArtisanBuddy/refs/heads/master/icon.png"
 }
 ]
