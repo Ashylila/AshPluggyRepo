@@ -54,5 +54,30 @@
     "DownloadLinkUpdate": "https://github.com/Ashylila/ArtisanBuddy/releases/latest/download/ArtisanBuddy.zip",
     "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/latest/download/ArtisanBuddy.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/ArtisanBuddy/refs/heads/master/icon.png"
-}
+},
+   {
+    "Author": "Ashy",
+    "Name": "The Collector",
+    "Punchline": "Seamless FFXIV-Discord Chat Integration",
+    "Description": "A plugin that connects Final Fantasy XIV in-game chat with Discord, allowing real-time message exchange between the two platforms.",
+    "Tags": [
+      "collectables",
+      "automation"
+    ],
+    "InternalName": "TheCollector",
+    "AssemblyVersion": "0.1",
+    "TestingAssemblyVersion": "0.1",
+    "RepoUrl": "https://github.com/Ashylila/TheCollector",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "TestingDalamudApiLevel": 12,
+    "IsHide": "False",
+    "IsTestingExclusive": "True",
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/Ashylila/AetherLink/releases/latest/download/TheCollector.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/AetherLink/releases/latest/download/TheCollector.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/ArtisanBuddy/releases/latest/download/TheCollector.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png"
+  },
 ]
