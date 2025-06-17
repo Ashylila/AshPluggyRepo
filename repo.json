@@ -23,9 +23,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
-    "DownloadLinkUpdate": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
+    "DownloadLinkInstall": "https://github.com/Ashylila/AetherLink/releases/latest/download/AetherLink.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/AetherLink/releases/latest/download/AetherLink.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/AetherLink/releases/latest/download/AetherLink.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/AshPluggyRepo/refs/heads/main/atherlink%20(1).png"
   },
   {
@@ -75,9 +75,9 @@
     "IsTestingExclusive": "True",
     "DownloadCount": 0,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
-    "DownloadLinkUpdate": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
+    "DownloadLinkInstall": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
+    "DownloadLinkUpdate": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/TheCollector/releases/download/0.1/TheCollector.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png"
   },
 ]
