@@ -72,7 +72,7 @@
     "DalamudApiLevel": 13,
     "TestingDalamudApiLevel": 13,
     "IsHide": "False",
-    "IsTestingExclusive": "True",
+    "IsTestingExclusive": "False",
     "DownloadCount": 0,
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
