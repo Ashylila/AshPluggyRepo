@@ -65,8 +65,8 @@
       "automation"
     ],
     "InternalName": "TheCollector",
-    "AssemblyVersion": "0.33",
-    "TestingAssemblyVersion": "0.33",
+    "AssemblyVersion": "0.34",
+    "TestingAssemblyVersion": "0.34",
     "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
