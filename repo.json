@@ -40,7 +40,7 @@
     "Gatherbuddy",
     "Automation"
   ],
-    "AssemblyVersion": "0.2",
+    "AssemblyVersion": "0.21",
     "TestingAssemblyVersion": "0.2",
     "RepoUrl": "https://github.com/Ashylila/ArtisanBuddy",
     "ApplicableVersion": "any",
@@ -65,8 +65,8 @@
       "automation"
     ],
     "InternalName": "TheCollector",
-    "AssemblyVersion": "0.38",
-    "TestingAssemblyVersion": "0.38",
+    "AssemblyVersion": "0.39",
+    "TestingAssemblyVersion": "0.39",
     "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
