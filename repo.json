@@ -65,7 +65,7 @@
       "automation"
     ],
     "InternalName": "TheCollector",
-    "AssemblyVersion": "0.4.5",
+    "AssemblyVersion": "0.4.6",
     "TestingAssemblyVersion": "0.4.2",
     "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "ApplicableVersion": "any",
