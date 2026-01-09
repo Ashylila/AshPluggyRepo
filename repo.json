@@ -66,7 +66,7 @@
     ],
     "InternalName": "TheCollector",
     "AssemblyVersion": "0.4.7",
-    "TestingAssemblyVersion": "0.4.2",
+    "TestingAssemblyVersion": "0.4.8",
     "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -77,7 +77,7 @@
     "LastUpdate": 0,
     "DownloadLinkInstall": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
     "DownloadLinkUpdate": "https://github.com/Ashylila/TheCollector/releases/latest/download/TheCollector.zip",
-    "DownloadLinkTesting": "https://github.com/Ashylila/TheCollector/releases/download/0.4.2/TheCollector.zip",
+    "DownloadLinkTesting": "https://github.com/Ashylila/TheCollector/releases/download/0.4.8/TheCollector.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ashylila/TheCollector/refs/heads/master/icon.png"
   },
 ]
