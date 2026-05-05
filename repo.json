@@ -69,7 +69,7 @@
     "TestingAssemblyVersion": "0.5.7",
     "RepoUrl": "https://github.com/Ashylila/TheCollector",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
+    "DalamudApiLevel": 14,
     "TestingDalamudApiLevel": 14,
     "IsHide": "False",
     "IsTestingExclusive": "False",
